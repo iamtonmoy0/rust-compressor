@@ -1,12 +1,17 @@
 ### Compression program with Rust
 
 * clone this repo 
-``` git clone https://github.com/iamtonmoy0/rust-compressor
+```sh 
+git clone https://github.com/iamtonmoy0/rust-compressor
 ```
 * 
-``` cd rust-compressor
+```sh
+ cd rust-compressor
+ 
 ```
 
 * 
-``` cargo run book.pdf compressedBook
+```sh 
+cargo run book.pdf compressedBook
+
 ```
