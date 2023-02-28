@@ -1,3 +1,12 @@
 ### Compression program with Rust
 
-* clone this repo then run " $cargo  run 'yourFileName' 'compressedFileName' "
+* clone this repo 
+``` git clone https://github.com/iamtonmoy0/rust-compressor
+```
+* 
+``` cd rust-compressor
+```
+
+* 
+``` cargo run book.pdf compressedBook
+```
